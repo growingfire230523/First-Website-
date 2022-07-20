@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mega-Project</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
+
+</head>
+
+<body>
+    <h1>Himanshu Prajapati</h1>
+    <br>
+    <br>
+
+    <header>
+        <a href="#" class="header" target="_main">Home</a>
+        <a href="#" class="header" target="_main">Study Material</a>
+        <a href="#" class="header" target="_main">Mentorship</a>
+        <a href="#" class="header" target="_main">My Story</a>
+        <a href="#" class="header" target="_main">Contact Me</a>
+
+    </header>
+    <br>
+    <br>
+    <br>
+    <div class="a1">
+        <span class="span-1">My Popular Uploads on Youtube</span>
+<br>
+        <br>
+        <br>
+
+        <div class="carousel" data-flickity='{ "autoPlay": true }'>
+            <div class="carousel-cell"><iframe width="420" class="a4" height="320"
+                    src="https://www.youtube.com/embed/J61CUuD_vb4" title="YouTube video player" frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe></div>
+            <div class="carousel-cell"> <iframe width="420" class="a4" height="320"
+                    src="https://www.youtube.com/embed/ITrtOyWuUDA" title="YouTube video player" frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+            </div>
+
+            <div class="carousel-cell">
+                <iframe width="420" class="a4" height="320" src="https://www.youtube.com/embed/ugBJFBPjjlc"
+                    title="YouTube video player" frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+            </div>
+            <div class="carousel-cell"><iframe width="420" class="a4" height="320"
+                    src="https://www.youtube.com/embed/SoDNZ6FsQHU" title="YouTube video player" frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe></div>
+        </div>
+
+
+
+
+
+
+
+
+
+    </div>
+
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <div class="a3">
+        <span class="span-2">My popular Answers on Quora</span>
+    </div>
+    <br>
+    <br>
+   
+    <div class="carousel2"
+    data-flickity='{ "wrapAround": true }'>
+    <div class="carousel2-cell"><a href="https://qr.ae/pvk2ZW" class="a6" target="_main"><img src="/img1.png" width="550" height="510"></a>
+       </div>
+    <div class="carousel2-cell"> <a href="https://qr.ae/pvk2e8" class="a6" target="_main"><img src="/img2.png" width="550" height="510"></a>
+</div>
+    <div class="carousel2-cell">        <a href="https://qr.ae/pvk2ZZ" class="a6" target="_main"><img src="/img3.png" width="550" height="510"></a>
+</div>
+    <div class="carousel2-cell">        <a href="https://qr.ae/pvk2eT" class="a6" target="_main"><img src="/img4.png" width="550" height="510"></a>
+</div>
+    
+  </div>
+  
+  <br>
+  <br>
+    
+    <br>
+    <br>
+    <div class="a7">
+        <span class="span-3">Testimonials of Mentorship</span>
+    </div>
+    <br>
+    <br>
+    <section id="id1">
+        <div>
+            <img src="/img5.jpg" width="200">
+            <h3>Isha Chowdhary</h3>
+            <pre>Thanks a lot bhaiyaa! For 
+guiding me for over 1.5
+years. You'll always be an 
+inspiration for me .</pre>
+        </div>
+
+        <div>
+            <img src="/img6.jpg" width="200" height="150px">
+            <h3>Ajeet Sahane</h3>
+            <pre>My 11th was ruined.Just
+bcoz of your help ,I could
+clear Jee-Adv.Thankyou</pre>
+        </div>
+
+        <div>
+            <img src="/img7.webp" width="200" height="150px">
+            <h3>Lucky Desai</h3>
+            <pre>I was completely fucked up.
+Now I'm doing gud in my 
+studies.Thanks!</pre>
+        </div>
+
+        <div>
+            <img src="/img9.png" width="200" height="150px">
+            <h3>Pramila Nagar</h3>
+            <pre>Thanks bro .. Just because
+of you , I could get my dream
+college .</pre>
+        </div>
+
+        <div>
+            <img src="/img8.jpeg" width="200" height="150px">
+            <h3>Vansh Kumar</h3>
+            <pre>Bhaiya,the strategy you
+provided worked really well
+and now I'm scoring good
+in mocks.</pre>
+        </div>
+    </section>
+    <br>
+    <br>
+    <div class="a8">
+        <span class="span-4">About the Founder</span>
+    </div>
+    <br>
+    <br>
+    <div class="a9">
+        <img src="/img10.jpeg" height="240" ; alt="Himanshu Prajapati DP">
+    </div>
+    <br>
+    <div class="span3">
+        <span class="h2">Himanshu Prajapati</span>
+    </div>
+    <br>
+    <p class="p"> A Crazy folk , from IIT DELHI , EE3 branch , cracked JEE Advanced 2021 with just self study & YT in
+        the first attempt. I undergone a list of difficulties during my preparation , as I had no mentor . Even after
+        this hardship i gone through the exam. So , this makes me the perfect person to guide you . I'll ensure you
+        would not repeat the mistakes I did . Feel free to contact me if you have any doubt regarding preparation
+        {Non-academic}.
+        For INSTA and QUORA check the Channel banner/below section .
+        Here are some of my credentials :
+        10th HBSE - 99.4% ( Rank 1 in Haryana)
+        12th CBSE - 96.6%
+        JEE MAINS - CRL 1582 [ Without ]
+        JEE ADVANCED - CRL 2893 [Coaching]
+        NTSE level 1 qualifier 2018-19
+        Campus Ambassador , IIM Jammu
+        Marketing intern @skill lync
+        Quora writer : Over 6.5 Lac Content views
+    </p>
+
+    <br>
+
+
+    <footer class="footer">
+        <nav class="nav2">
+
+            <a href="https://www.linkedin.com/in/himanshu-400669217/"><img src="/linkedin.png "
+                    width="20px">Linked-in</a>
+            <a href="https://www.quora.com/profile/HIMANSHU-IITD-1/questions"><img src="/quora.png"
+                    width="20px">Quora</a>
+            <a href="https://twitter.com/jaiparjapati101/MATHMINDER"><img src="/twitter.png" width="20px">Twitter</a>
+            <a href="https://www.instagram.com/growing.fire/"><img src="/instagram.png" width="20px">Instagram</a>
+            <a href="https://sites.google.com/view/mathminder/home"><img src="/user.png" width="20px">Our Educational
+                website</a>
+        </nav>
+    </footer>
+    <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+
+
+</body>
+
+</html>
